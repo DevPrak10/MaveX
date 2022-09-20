@@ -97,7 +97,7 @@
    
    /* container */
    .big-container{
-   background-image: url(/images/people.jpg);
+   background-image: url(./images/people.jpg);
    background-size: 100% auto;
    background-repeat: no-repeat;
    text-align: center;
