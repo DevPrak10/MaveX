@@ -2,6 +2,7 @@
 * {
     margin:0;
     font-family: 'Poppins', sans-serif;
+    max-width: 100%;
 }
 
 /* ********************SECTION-1 START****************** */
@@ -460,21 +461,19 @@ width:100%;
    
 }
 .details-5{
-    dispaly:flex;
+    /* display:flex; */
     width:100%;
 }
 
 .img1-5{
     width:10%;
     float:left;
+    margin-left: 2%;
     
-
 }
 .profile-5{
-    width:90%;
     border-radius:50%;
     margin-left:0;
-    padding:2% 50%;
 }
 .name-5{
     padding-top:2%;
