@@ -4,6 +4,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 /* ********************SECTION-1 START****************** */
   /* navbvar */
   
